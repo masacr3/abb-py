@@ -1,3 +1,7 @@
+#Autor Leonel R.
+#Facultad de Ingenieria
+#Universidad de Buenos Aires
+
 class NODO:
     def __init__(self,clave,dato):
         self.clave = clave
